@@ -7,7 +7,7 @@
 }
 nav {
     max-width: 1440px;
-    padding: 16px 0;
+    padding: 16px 160px;
     margin: auto;
     display: flex;
     align-items: center;
@@ -124,7 +124,7 @@ nav a {
 .newarrival {
     max-width: 1440px;
     margin: auto;
-    padding: 48px 0px;
+    padding: 48px 160px;
 }
 
 .newarrival-container {
@@ -138,6 +138,7 @@ nav a {
 
 .newarrival-head {
     max-width: 1120px;
+    margin: auto;
 }
 
 .newarrival-head h5 {
@@ -199,7 +200,7 @@ left: 16px;
 .categories {
     max-width: 1440px;
     margin: auto;
-    padding: 48px 0px;
+    padding: 48px 160px;
 }
 
 .categories-container {
@@ -313,7 +314,7 @@ left: 16px;
 .beastseller {
     max-width: 1440px;
     margin: auto;
-    padding: 48px 0px 100px 0px;
+    padding: 48px 160px 100px 160px;
 }
 
 .beastseller-container {
@@ -425,7 +426,7 @@ left: 16px;
 }
 
 .video {
-    padding: 40px 0px;
+    padding: 40px 160px;
     width: 1440px;
     margin: auto;
     display: flex;
@@ -469,12 +470,13 @@ left: 16px;
 .video-container video {
     max-width: 1120px;
     height: 544px;
+    margin: auto;
     border-radius: 16px;
 }
 
 .articles {
     max-width: 1440px;
-    padding: 80px 0px;
+    padding: 80px 160px;
     margin: auto;
 
 }
@@ -556,7 +558,7 @@ text-transform: capitalize;
 
 .instagram {
     max-width: 1440px;
-    padding: 40px 0px;
+    padding: 40px 160px;
     margin: auto;
 }
 
@@ -613,7 +615,7 @@ text-transform: capitalize;
 
 .services {
     max-width: 1440PX;
-    padding: 16px 0px;
+    padding: 16px 160px;
     margin: auto;
 }
 
@@ -661,7 +663,7 @@ text-transform: capitalize;
 }
 
 footer {
-    padding: 80px 0px 32px 0px;
+    padding: 80px 160px 32px 160px;
     margin: auto;
     max-width: 1440px;
     background-color: #E8ECEF;
